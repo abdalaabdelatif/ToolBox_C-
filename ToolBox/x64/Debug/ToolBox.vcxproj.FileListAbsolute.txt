@@ -1,0 +1,4 @@
+C:\Users\abdal\OneDrive\Desktop\Image processing lab\ToolBox\x64\Debug\ToolBox.vcxproj.AssemblyReference.cache
+C:\Users\abdal\OneDrive\Desktop\Image processing lab\ToolBox\x64\Debug\ToolBox.exe
+C:\Users\abdal\OneDrive\Desktop\Image processing lab\ToolBox\x64\Debug\ToolBox.ToolBox.resources
+C:\Users\abdal\OneDrive\Desktop\Image processing lab\ToolBox\x64\Debug\ToolBox.vcxproj.GenerateResource.cache
